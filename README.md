@@ -28,7 +28,7 @@ Cadastro, consulta ou alteração de Animal, Veterinário, Clinica,  Cliente, Re
 ---
 # 2. Diagrama de classes
 A figura abaixo representa o diagrama de classe:
-![Diagrama de Classe](https://github.com/VitorRBS/EngenhariaPetShop-/blob/86590c51d62bc0389a3dbdb5c98acb2557c1bc29/figuras/Atividade.html)
+![Diagrama de Classe]()
 ---
 # 3. Diagrama de atividades
 
